@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 05 Sep 2022 12:39:58 GMT
+ * Generated on Mon, 05 Sep 2022 12:42:45 GMT
  */
 
 :root {
@@ -48,4 +48,6 @@
   --colors-grey-800: #424242;
   --colors-grey-900: #323232;
   --colors-grey-950: #212121;
+  --test: #757575;
+  --red: #100105;
 }
