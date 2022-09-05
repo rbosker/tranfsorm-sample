@@ -1,1 +1,6 @@
-{}
+{
+  "purp": {
+    "value": "{theme.accent.default}",
+    "type": "color"
+  }
+}
