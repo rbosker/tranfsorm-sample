@@ -7,7 +7,10 @@
       "test 1": "disabled",
       "test 2": "enabled"
     },
-    "$figmaStyleReferences": {}
+    "$figmaStyleReferences": {
+      "space.purp": "S:c85b5be562d2b29b50fde0c880cf6b229d1ad2f2,",
+      "erewrge": "S:04c8455e6ea4f1efa557b31bda9add22d993074e,"
+    }
   },
   {
     "id": "a49785314b23c6c1e806dca20939653726deaf75",
