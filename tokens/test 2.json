@@ -1,7 +1,9 @@
 {
-  "purp": {
-    "value": "{theme.accent.default}",
-    "type": "color"
+  "space": {
+    "purp": {
+      "value": "{theme.accent.default}",
+      "type": "color"
+    }
   },
   "erewrge": {
     "value": "{theme.bg.muted}",
