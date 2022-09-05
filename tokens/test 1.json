@@ -1,1 +1,10 @@
-{}
+{
+  "test": {
+    "value": "{theme.bg.muted}",
+    "type": "color"
+  },
+  "red": {
+    "value": "{colors.red.950}",
+    "type": "color"
+  }
+}
