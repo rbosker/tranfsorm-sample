@@ -1,0 +1,22 @@
+[
+  {
+    "id": "791b0a680ce83de5ce8fa52081b124db24e158c9",
+    "name": "theme 4",
+    "selectedTokenSets": {
+      "input": "source",
+      "test 1": "disabled",
+      "test 2": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "a49785314b23c6c1e806dca20939653726deaf75",
+    "name": "test theme",
+    "selectedTokenSets": {
+      "input": "source",
+      "test 1": "enabled",
+      "test 2": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]
